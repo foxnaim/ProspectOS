@@ -1,3 +1,8 @@
+> **foxnaim** · CRM для поиска клиентов: парсинг Google Maps и Instagram, сообщения, сгенерированные ИИ
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 <div align="center">
 
 <img src="frontend/public/logo-icon.svg" width="96" alt="ProspectOS logo" />
